@@ -1,0 +1,20 @@
+{
+    "name": "vakorolev/article-content-provider-bundle",
+    "description": "Генератор контента статьи для курса Skillbox",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CatCasCarSkillboxSymfony\\ArticleContentProviderBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viktor Korolev",
+            "email": "stranasovetov251@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    }
+}
