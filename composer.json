@@ -1,7 +1,7 @@
 {
     "name": "vakorolev/article-content-provider-bundle",
     "description": "Генератор контента статьи для курса Skillbox",
-    "type": "composer-plugin",
+    "type": "symfony-bundle",
     "license": "MIT",
     "autoload": {
         "psr-4": {
